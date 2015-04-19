@@ -1,1 +1,5 @@
-testRepo
+total 16
+drwxr-xr-x   4 Daed  staff   136 19 Apr 14:35 .
+drwxr-xr-x@ 48 Daed  staff  1632 19 Apr 14:27 ..
+-rw-r--r--@  1 Daed  staff  6148 19 Apr 14:32 .DS_Store
+drwxr-xr-x   4 Daed  staff   136 19 Apr 14:35 testRepo
